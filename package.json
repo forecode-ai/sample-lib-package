@@ -1,0 +1,11 @@
+{
+  "name": "@forecode-ai/money",
+  "version": "0.3.0",
+  "description": "ForeCode test estate: money formatting helpers",
+  "type": "module",
+  "exports": "./src/index.js",
+  "files": ["src"],
+  "license": "MIT",
+  "scripts": {"test": "node --test"},
+  "publishConfig": {"access": "public"}
+}
